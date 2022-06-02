@@ -1,0 +1,82 @@
+.mainndiv{
+    margin: 40px 10px;
+    border:1px solid silver;
+    height:200px;
+}
+
+.maindiv{
+    display: flex;
+   margin:15px;
+    height:70px;
+    align-items: center;
+
+}
+.div1>h3{
+    font-weight: bolder;
+    margin-right: 30px;
+
+}
+
+
+.div2 >input{
+    border: 1px solid rgb(200,200,200);
+padding:5px 8px;
+border-radius: 5px;
+color:rgb(200,200,200);
+}
+
+.div2>button{
+    border: 1px solid rgb(48,58,178);
+    margin-left: 10px;
+    color:rgb(48,58,178);
+    background-color: white;
+    font-weight: bolder;
+    padding:5px 15px;
+    border-radius: 5px;
+}
+
+.status{
+    background-color: rgb(253,237,235);
+    width:90%;
+    margin:auto;
+    font-size: 15px;
+    text-align: center;
+    border-radius: 5px;
+}
+.mainmrpdiv{
+    border:1px solid silver;
+    margin:30px 0;
+    height:250px;
+}
+
+.mrpdiv{
+    border-bottom:1px solid silver;
+    width:95%;
+    margin:auto;
+}
+
+.mrpdiv2{
+    width:95%;
+    margin:auto;
+    text-align: center;
+}
+
+.mrp{
+    display:flex;
+    justify-content: space-between;
+    margin:10px 0 15px 0;
+}
+
+.mrp>h3{
+    font-weight: bolder;
+
+}
+
+.mrpdiv2>button{
+    border:0;
+    background-color: rgb(48,58,178);
+    color:white;
+    padding:15px 50px;
+    border-radius: 5px;
+    margin:10px 0;
+}
