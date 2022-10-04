@@ -21,3 +21,12 @@ See more details about item
 A collaborative project built by a team of 5 executed in 7 days..
 
 LIVE DEMO:  https://leafy-sorbet-dccc4d.netlify.app/
+
+## Some of the screenshots are below:-
+
+![Max](./Images/home.png)
+
+![Max](./Images/cart.png)
+
+![Max](./Images/shopping.png)
+
